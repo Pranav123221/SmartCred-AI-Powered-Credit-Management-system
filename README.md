@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.png" alt="AI-Powered Credit Management Platform Banner"/>
+  <img src="./docs/banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">AI-Powered Credit Management Platform</h1>
