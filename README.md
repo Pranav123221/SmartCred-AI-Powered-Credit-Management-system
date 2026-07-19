@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./docs/banner.png" alt="Banner" width="100%">
+  <img width="1456" height="720" alt="Gemini_Generated_Image_bgkagxbgkagxbgka" src="https://github.com/user-attachments/assets/889f7edf-798b-4478-b716-7f02da2ee486" />
+
 </p>
 
 <h1 align="center">AI-Powered Credit Management Platform</h1>
